@@ -1,7 +1,6 @@
 # belumilo
 
 +
-
-![Enunciado](GECK_v10.pdf)
+[Enunciado](GECK_v10.pdf)
 
 
